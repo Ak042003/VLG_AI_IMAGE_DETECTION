@@ -4,4 +4,4 @@ Tried and tested various algorithms/models of CNN based architectures such as Re
 
 Following is the link to competition site: https://bitgrit.net/competition/18
 
-Then eventually tried XGboost, LightGbm, random forest and got the best score of 0.74198988 using lightgbm.
+Then eventually tried XGboost, LightGbm, random forest and got the best score of 0.76 using lightgbm.
